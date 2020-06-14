@@ -1,7 +1,7 @@
 # Site settings
-title: Thomas Zühlke
+title: Brenton Forrest
 description: 'Business Card Page'
-url: 'http://thomas.zuehlke.family'
+url: 'https://github.com/Brenton-Forrest/Brenton_Forrest'
 baseurl: ''
 profilepic: '/images/tzuehlke.jpg'
 bkimage: '/images/bk1.jpg'
@@ -9,13 +9,13 @@ google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
 
 author:
-  name: 'Thomas Zühlke'
-  email: info@thomas-zuehlke.de
-  twitter_username: thomzuehlke
+  name: 'Brenton Forrest'
+  email: s3863020@student.rmit.edu.au
+  twitter_username:
 #  facebook_username: joshgerdes
-  github_username:  tzuehlke
-  linkedin_username:  thomas-zühlke-889182165
-  meetup_name: Azure-Meetup-Rostock-MV
+  github_username:  Brenton-Forrest
+  linkedin_username:
+  meetup_name:
 
 # Build settings
 destination: _site
